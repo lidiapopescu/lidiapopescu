@@ -1,9 +1,9 @@
 ### Hi there, I'm Lidia 👋
 
-👩💻 A software engineer 
-💪 experienced in Java,
-🐍 beginner in Python, 
-🧠 passion for algorithms.
+- 👩💻 A software engineer 
+- 💪 experienced in Java,
+- 🐍 beginner in Python, 
+- 🧠 passion for algorithms.
 
 A programmer by work, and a creator by hobby 🎨🎹💎🎞️.
 
