@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Lidia 👋
+
+👩💻 A software engineer 
+💪 experienced in Java,
+🐍 beginner in Python, 
+🧠 passion for algorithms.
+
+A programmer by work, and a creator by hobby 🎨🎹💎🎞️.
 
 <!--
 **lidiapopescu/lidiapopescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
