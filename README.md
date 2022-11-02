@@ -2,7 +2,7 @@
 
 - 👩💻 A software engineer 
 - 💪 experienced in Java,
-- 🐍 beginner in Python, 
+- 🐍 beginner in C#, Groovy, Python 
 - 🧠 passion for algorithms.
 
 A programmer by work, and a creator by hobby 🎨🎹💎🎞️.
